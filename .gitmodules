@@ -1,3 +1,6 @@
 [submodule "base/start/nerdtree"]
 	path = base/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "base/start/nerdcommenter"]
+	path = base/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
